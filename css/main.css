@@ -77,11 +77,11 @@ figure {
 }
 
 figure:nth-last-of-type(1) {
-  grid-area: col1;
+  grid-area: col2;
 }
 
 figure:nth-last-of-type(2) {
-  grid-area: col2;
+  grid-area: col1;
 }
 
 figure img {
